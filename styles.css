@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 .container{
-	
+	display:flex;
 	background-color:#D3D3D3;
 	padding:10px;
 }
 .list{
-	display:flex;
+	display:inline;
 	margin-right:1rem;
 	list-style:none;
 }
